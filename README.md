@@ -11,6 +11,9 @@ A Retrieval-Augmented Generation (RAG) system that enables intelligent question-
 - **Question Answering**: Generate contextual answers using retrieved information
 - **Local Processing**: Runs entirely on your infrastructure using Ollama
 
+
+[Alt text](./image/Screenshot.png)
+
 ## 📋 Prerequisites
 
 - Python 3.8 or higher
